@@ -1,0 +1,9 @@
+table{
+    text-align: center;
+}
+label{
+    font-size: 15px;
+    color: blue;
+    text-decoration: blue;
+    font-weight: bold;
+}
